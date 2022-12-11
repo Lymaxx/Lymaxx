@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lymaxx
-- 👀 I’m interested in ...developing P2P app
+- 👀 I’m interested in ...developing a P2P app
 - 🌱 I’m currently learning ...programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
